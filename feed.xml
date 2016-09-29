@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo PacMan Theme Demo</title>
+    <link>http://crazycars.github.io/</link>
+    <description>Recent content on Hugo PacMan Theme Demo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Thu, 29 Sep 2016 14:58:14 +0800</lastBuildDate>
+    <atom:link href="http://crazycars.github.io/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>hugo create blog</title>
+      <link>http://crazycars.github.io/posts/hugo-create-blog/</link>
+      <pubDate>Thu, 29 Sep 2016 14:58:14 +0800</pubDate>
+      
+      <guid>http://crazycars.github.io/posts/hugo-create-blog/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
